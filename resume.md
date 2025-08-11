@@ -2,6 +2,9 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
+
+## Job History
+
 ## Jobs
 
 ### GitHub Trainer
@@ -21,3 +24,7 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+
+### Student
+
+Alejandro Muñoz
